@@ -1,0 +1,41 @@
+img {
+  width: 100%;
+}
+
+body {
+  font-family: Helvetica;
+  background-color: black;
+  color: white;
+  text-align: justify;
+  text-justify: inter-word;
+  padding-left: 300px;
+  padding-right: 300px;
+  line-height: 180%;
+  }
+
+h1{
+  color: #B9090B;
+  text-align: center;
+  vertical-align: middle;
+}
+div {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+button {
+    color:#ffffff;
+    background-color:#B9090B;
+    font-family:"Helvetica";
+    border:none;
+    width:5%;
+    height:25px;
+    text-align:center;
+    -webkit-border-radius:2px;
+    -moz-border-radius:2px;
+}
+
+p {
+    padding-bottom: 5px;
+    padding-top: 15px;
+}
